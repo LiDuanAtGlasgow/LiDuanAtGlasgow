@@ -2,7 +2,7 @@
 - 👀 I’m interested in robot perception and manipulation
 - 🌱 I’m currently researching on robot continuous perception and deformable object physical properties
 - 💞️ I’m looking to collaborate on robot perceptiona and manipulation
-- 📫 How to reach me: Twitter: @Itoyamakato
+- 📫 How to reach me: Twitter: @liduanglasgow
 
 <!---
 LiDuanAtGlasgow/LiDuanAtGlasgow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
