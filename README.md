@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Li Duan (Ken), a 3rd-year PhD student @ University of Glasgow
-- 👀 I’m interested in robot perception and manipulation
-- 🌱 I’m currently researching on robot continuous perception and deformable object physical properties
+- 👀 I’m interested in deformable object understanding and manipulation
+- 🌱 I’m currently researching on robot deformable object manipluation through object understanding 
 - 💞️ I’m looking to collaborations on robot perception and manipulation
 - 📫 How to reach me: @liduanglasgow (Twitter)
 
