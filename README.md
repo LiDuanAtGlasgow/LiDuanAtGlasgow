@@ -3,7 +3,7 @@
 - 🌱 I’m currently researching on robot deformable object manipluation through object understanding 
 - 💞️ I’m looking to collaborations on robot perception and manipulation
 - 📫 How to reach me: @liduanglasgow (Twitter)
-- 👀 My Youtube channel for the video demonstrations of my project: https://www.youtube.com/channel/UCadViRtMTtdZRFJNZMqtZyA
+- 👀 Here is a little more about me: https://linktr.ee/liduanken
 
 <!---
 LiDuanAtGlasgow/LiDuanAtGlasgow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
