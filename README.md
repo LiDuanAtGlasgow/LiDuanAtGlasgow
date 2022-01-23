@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Li Duan (Ken), a 3rd-year PhD student @ University of Glasgow
+- 👋 Hi, I’m Li Duan (Ken), a final year PhD student @ University of Glasgow
 - 👀 I’m interested in deformable object understanding and manipulation
 - 🌱 I’m currently researching on robot deformable object manipluation through object understanding 
 - 💞️ I’m looking to collaborations on robot perception and manipulation
